@@ -12,27 +12,32 @@ Maestra: Myrna Villegas Gaytan
 --------------------------------
 
 
-Programa 01
-Nombre
+## Programa 01
+
+### Nombre
+
 Factorial Directa
 
-Descripción
+### Descripción
+
 Programa desarrollado en C# que calcula el factorial de un número entero positivo mediante algoritmos recursivos.
 
-Lenguaje
+### Lenguaje
+
 C#
 
-IDE
+### IDE
+
 Visual Studio
 
-Conceptos utilizados
+### Conceptos utilizados
 Recursividad
 Casos base y casos recursivos
 Condicionales
 Entrada y salida de datos
 
 
-Programa 02
+## Programa 02
 Nombre
 Fibonacci Directa
 
@@ -52,7 +57,7 @@ Casos base
 Entrada y salida de datos
 
 
-Programa 03
+## Programa 03
 Nombre
 Sumar de 1 hasta n Directa
 
@@ -72,7 +77,7 @@ Condicionales
 Entrada y salida de datos
 
 
-Programa 04
+## Programa 04
 Nombre
 Potencia Directa
 
@@ -92,7 +97,7 @@ Casos base
 Entrada y salida de datos
 
 
-Programa 05
+## Programa 05
 Nombre
 Invertir un Número Directa
 
@@ -112,7 +117,7 @@ Manipulación de enteros
 Entrada y salida de datos
 
 
-Programa 06
+## Programa 06
 Nombre
 Suma mediante dos metodos indirectos
 
@@ -132,7 +137,7 @@ Operaciones matemáticas
 Entrada y salida de datos
 
 
-Programa 07
+## Programa 07
 Nombre
 Par o Impar
 
@@ -152,7 +157,7 @@ Condicionales
 Entrada y salida de datos
 
 
-Programa 08
+## Programa 08
 Nombre
 Cuenta Regresiva alternando indirecta
 
